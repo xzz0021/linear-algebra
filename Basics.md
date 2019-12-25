@@ -1,4 +1,4 @@
-** Basics of linear algebra encountered while reading Machine Learning in Action **
+**Basics of linear algebra encountered while reading Machine Learning in Action**
 
 **Inverse of a matrix**
 
